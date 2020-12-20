@@ -1,0 +1,22 @@
+#firstP {
+    margin-bottom: 5%;
+    font-size: 200%;
+}
+.Health {
+    text-align: center;
+}
+.yourDmg {
+    margin-top: 2%;
+    font-size: 200%;
+}
+.textup {
+    text-align: center;
+}
+.btns {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+}
+.game {
+    background-color: #583d72;;
+}
